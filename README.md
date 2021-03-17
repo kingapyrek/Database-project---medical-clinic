@@ -1,5 +1,5 @@
-Database project medical-clinic
-PostgreSQL database project for university course using HTML, CSS, Bootstrap, PHP.
+# Database project medical-clinic
+## PostgreSQL database project for university course using HTML, CSS, Bootstrap, PHP.
 
 This web application was made to support medical clinic. There are 3 types of account : for doctor, patient and admin.
 * Admin has the right to add branches, new types of clinic, new doctors and manage shifts etc.
